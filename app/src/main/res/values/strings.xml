@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MotionLayout</string>
+    <string name="spacemoji">Spacemoji</string>
+    <string name="ringed_planet">Ringed Planet</string>
+    <string name="rocket">Rocket</string>
+    <string name="added_in_2019_in_unicode_12_0">added in 2019 in Unicode 12.0</string>
+    <string name="space_monster">Space Monster</string>
+    <string name="added_in_2010_in_unicode_6_0">Added in 2010 in Unicode 6.0</string>
+    <string name="added_in_2019_in_unicode_12_0">added in 2019 in Unicode 12.0</string>
+</resources>
